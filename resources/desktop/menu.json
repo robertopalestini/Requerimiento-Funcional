@@ -1,0 +1,7 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "Cálculos", "iconCls": "x-fa fa-home", "xtype": "homeview", "leaf": true },
+    { "text": "Historial", "iconCls": "x-fa fa-table", "xtype": "personnelview","leaf": true }
+  ]
+}
